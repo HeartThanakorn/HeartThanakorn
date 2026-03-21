@@ -37,7 +37,7 @@ I am a Software Engineering student at **42 Berlin** and an MA candidate in **En
 
 | Project | Description | Achievement |
 | :--- | :--- | :--- |
-| **ApexSafe** | AI & Satellite-Powered Multi-Hazard Safety Platform | - 10th CASSINI Hackathon |
+| **ApexSafe** | AI & Satellite-Powered Multi-Hazard Safety Platform | 10th CASSINI Hackathon |
 | **KiezGrid** | AI-Driven Local Energy Management for residential buildings | 🥈 **2nd Place** - Berlin Energy Hackathon |
 | **Agentic AI** | Intelligent Financial Analysis using Agentic AI principles | 🏅 **Top 12 Finalist** - SCBX/AIAT Hackathon |
 
