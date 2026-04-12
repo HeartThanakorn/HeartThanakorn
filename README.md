@@ -22,7 +22,7 @@ I am a Software Engineering student at **42 Berlin** and an MA candidate in **En
 
 ### **Web & AI Development** 
 - **Frontend:** React, HTML5, CSS3, TailwindCSS, Bootstrap 
-- **Backend:** Node.js, Express 
+- **Backend:** Node.js, Express, FastAPI 
 - **Mobile:** Flutter, Dart 
 - **AI & Data:** AI Optimization, n8n, Power BI, Tableau, Looker 
 - **Databases:** SQL, MySQL 
