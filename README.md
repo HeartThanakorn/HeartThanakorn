@@ -1,12 +1,12 @@
 # Hi there, I'm Thanakorn Thajan! 👋
 
-### **Software Engineer | AI & Energy Management Specialist | 42 Berlin Student**
+### **Software Engineer | AI & Energy Management Specialist**
 
-I am a Software Engineering student at **42 Berlin** and an MA candidate in **Energy Management** at Berlin School of Business and Innovation (BSBI). I combine **15+ years of leadership** in facility and energy operations for global brands like **H&M, McDonald's, and KFC** with modern full-stack development and AI solutions.
+I am a Software Engineer and a graduate of MA in **Energy Management** from Berlin School of Business and Innovation (BSBI). I combine **15+ years of leadership** in facility and energy operations for global brands like **H&M, McDonald's, and KFC** with modern full-stack development and AI solutions.
 
 - 🌍 Based in **Berlin, Germany** 
 - 🏆 **Award-winning developer** specializing in AI-driven energy and safety platforms 
-- 🎓 **Education:** Software Engineering at 42 Berlin | MA in Energy Management at BSBI 
+- 🎓 **Education:** Software Engineering at 42 Berlin (Alumnus) | MA in Energy Management at BSBI (Graduated) 
 - 🚀 **Expertise:** Bridging complex business logic with scalable technical solutions
 
 ---
@@ -37,22 +37,24 @@ I am a Software Engineering student at **42 Berlin** and an MA candidate in **En
 
 | Project | Description | Achievement |
 | :--- | :--- | :--- |
-| **ApexSafe** | AI & Satellite-Powered Multi-Hazard Safety Platform | 10th CASSINI Hackathon |
+| **FlexiFleet** | AI-driven algorithmic trading for batteries and hybrid parks | 🥈 **2nd Place** - Berlin Battery Hackathon |
 | **KiezGrid** | AI-Driven Local Energy Management for residential buildings | 🥈 **2nd Place** - Berlin Energy Hackathon |
+| **ApexSafe** | AI & Satellite-Powered Multi-Hazard Safety Platform | 10th CASSINI Hackathon |
 | **Agentic AI** | Intelligent Financial Analysis using Agentic AI principles | 🏅 **Top 12 Finalist** - SCBX/AIAT Hackathon |
 
 ---
 
 ## 💼 Professional Experience
 
-### **Software & Data Engineering**
+### **Software & Data Engineering (AI & Energy Tech Focus)**
 - **Freelance Full-Stack Developer & DevOps** (Nov 2025 – Present)
-  - Architected and deployed commercial web apps using Docker and Linux VPS with Nginx reverse proxy.
-- **Engineer & Data Manager (Part-time)** at **Dansai Consulting & Supply** (Jan 2023 – Present)
-  - Enhancing the Vservesafe platform and developing real-time energy analytics dashboards.
-  - Led Energy IoT projects integrating digital power meters for automated reduction planning.
+  - Architected and deployed scalable commercial web apps using Docker and Linux VPS with Nginx reverse proxy to support data-intensive applications.
+- **Engineer & Data Manager** at **Dansai Consulting & Supply** (Jan 2023 – Present)
+  - Applying advanced energy management principles to enhance the Vservesafe platform and develop real-time energy analytics dashboards.
+  - Led Energy IoT projects integrating digital power meters for automated reduction planning and data-driven sustainability.
 
 ### **Energy & Facility Operations Management**
+*(A strong foundation in managing complex infrastructure, driving energy initiatives, and optimizing large-scale operations for global brands)*
 - **Assistant Manager (Maintenance & Construction)** at **Hthai (H&M, COS, ALO)** (2015 – 2024)
   - Managed full construction lifecycles across Thailand and Cambodia and controlled $1M+ annual budgets.
 - **Equipment & Maintenance Assistant Manager** at **McThai (McDonald's)** (2010 – 2015) 
